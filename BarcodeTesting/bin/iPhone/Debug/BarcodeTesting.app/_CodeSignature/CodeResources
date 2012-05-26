@@ -6,11 +6,11 @@
 	<dict>
 		<key>BarcodeTesting.exe</key>
 		<data>
-		Klexxo8qOZp25IcgUbgdugmEVs4=
+		4iKTXuZJHWtats5g6typtv94vDE=
 		</data>
 		<key>BarcodeTesting.exe.mdb</key>
 		<data>
-		PUMH3GGRWfUeBRcdHptRvsJGYSo=
+		CSDJ7HZC1kFWk67TQKWJRNlmWRw=
 		</data>
 		<key>Icon.png</key>
 		<data>
@@ -18,15 +18,15 @@
 		</data>
 		<key>Images/BarCodeOverlay.png</key>
 		<data>
-		G2OPg5AQ5wzuoDRKHlm6x/QrrkA=
+		iwmjZWXOQINOCfxdnP4Wup+OCPs=
 		</data>
 		<key>Images/green_down_arrow.png</key>
 		<data>
-		KS1cYfR8VxYuveSX2RdmvjsVhuo=
+		idwNdR4u5OnJ9evv5zZtShSQ9f4=
 		</data>
 		<key>Images/green_up_arrow.png</key>
 		<data>
-		azoHFiBIISOU4qZCcZiYhKChe5Q=
+		vqyBP8ZyNpyFbsXG2EbDq6rI+kA=
 		</data>
 		<key>Images/icon_barcode.png</key>
 		<data>
@@ -34,31 +34,35 @@
 		</data>
 		<key>Images/white_down_arrow.png</key>
 		<data>
-		9fFZNiXMGoU75qI7iPUTFj82ijI=
+		m/gvZrJOLmFQeP0LfL8xbZMxRKY=
 		</data>
 		<key>Images/white_up_arrow.png</key>
 		<data>
-		o5DnI1Mhsm4zsVVyZ+Ukq7Fk/jU=
+		pCvYjsnI3u4uza3uwy2Las87z7k=
 		</data>
 		<key>Images/zxing-icon-128.png</key>
 		<data>
-		ex5jBIjd9P6+JTbctYvN2VmE/Ws=
+		2XUIaHJMBcUK0yMaJyQi5lCvg54=
 		</data>
 		<key>MainWindow.nib</key>
 		<data>
-		2jxRDCk55ure0MrNq4f5vEL1XWI=
+		3nZg9IiD9iU6yr1C3E2COfXXXs8=
 		</data>
 		<key>Mono.Security.dll</key>
 		<data>
-		f502slP/FdHG4mUZqfC5FLh+mTw=
+		lTHJISf21S2i8tpFlxLGyjlKCis=
 		</data>
 		<key>Mono.Security.dll.mdb</key>
 		<data>
-		M+SUq3Vx6qJmHj8N4e7PQby1Px0=
+		Kp+KAJjN5v6L+6+n2EjOQbXPTPM=
 		</data>
 		<key>MonoTouch.Dialog.dll</key>
 		<data>
 		z0mlEVRsFPBLJ0A3Y6FYe1PBORE=
+		</data>
+		<key>MonoTouchDebugConfiguration.txt</key>
+		<data>
+		yXrns62diIq1HwIAJ+a2mj8MEHM=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -66,7 +70,7 @@
 		</data>
 		<key>Settings.bundle/Root.plist</key>
 		<data>
-		bMpfqgT1Hqm2+W2740CaVFoHHdU=
+		ddYwuHyBR1STpnVi4KQzbDxOT3g=
 		</data>
 		<key>Sounds/beep.wav</key>
 		<data>
@@ -74,43 +78,47 @@
 		</data>
 		<key>System.Core.dll</key>
 		<data>
-		ADSYBobOa8DJ0AuQrREIG5cVocQ=
+		HQsZDZhJGMfAYhlS21lLVnmrnUw=
 		</data>
 		<key>System.Core.dll.mdb</key>
 		<data>
-		W+UhlLxC/4JU139eC+9Yoh2tTzE=
+		Ki2RHLnn6KYhziUOb2PFSw+zRUs=
 		</data>
 		<key>System.dll</key>
 		<data>
-		1/e4OKiEe7qfx8zXPccWnOfRA7U=
+		6fnxbJ33SgL9qeSFHc0IbN/qbLM=
 		</data>
 		<key>System.dll.mdb</key>
 		<data>
-		TZhMZhszjvmHA+waZYhhWlC1kXc=
+		Qrhtkyy0ituiONyb0NADDv8zIRo=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		HCJmdxJz5sijeaxlfNYmLqF/u0w=
+		B98agfCbI2+KeB/VXqcm+CB4IhY=
 		</data>
 		<key>monotouch.dll</key>
 		<data>
-		4EmlEU1UFkJAYmYqEWZVdHMapUA=
+		9ukAU3dJVO1mdFTVIVRFViVrmhA=
 		</data>
 		<key>monotouch.dll.mdb</key>
 		<data>
-		EPAGC3QIchYKaqmi/TjC1pyD7uA=
+		s1sLOmx9aR81KmKSOUO7JrYO/1Q=
 		</data>
 		<key>mscorlib.dll</key>
 		<data>
-		teosSy2sTivf9U3hqaVIJYpMeQM=
+		VGgMrOObKZhUTjcGOYmN/4BC3UM=
 		</data>
 		<key>mscorlib.dll.mdb</key>
 		<data>
-		moXoTnl/uWNJTpudtgGYzsh6dJg=
+		Fyjw9pc1300yT4KHruZqn7pv/vk=
 		</data>
 		<key>zxingMonoTouch.dll</key>
 		<data>
-		+qIw+LMFu4V1c/xhl1CHxSNMilo=
+		nupPRKVcdEUM2iZTjhFN0/0cthM=
+		</data>
+		<key>zxingMonoTouch.dll.mdb</key>
+		<data>
+		whum7z9B50My5ogChzHwqKCL8GQ=
 		</data>
 	</dict>
 	<key>rules</key>
