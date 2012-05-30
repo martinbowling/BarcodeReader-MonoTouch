@@ -1,7 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarcodeTesting", "BarcodeTesting\BarcodeTesting.csproj", "{B400B07B-16D2-4200-9BE9-1F64E279A3DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zxing.MonoTouch", "ZXING.MonoTouch\zxing.MonoTouch.csproj", "{49F99F7E-D407-4A9F-8BB2-24212B60C2D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,6 +13,14 @@ Global
 		Release|iPhone = Release|iPhone
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49F99F7E-D407-4A9F-8BB2-24212B60C2D2}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{49F99F7E-D407-4A9F-8BB2-24212B60C2D2}.Debug|iPhone.Build.0 = Debug|iPhone
+		{49F99F7E-D407-4A9F-8BB2-24212B60C2D2}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{49F99F7E-D407-4A9F-8BB2-24212B60C2D2}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{49F99F7E-D407-4A9F-8BB2-24212B60C2D2}.Release|iPhone.ActiveCfg = Release|iPhone
+		{49F99F7E-D407-4A9F-8BB2-24212B60C2D2}.Release|iPhone.Build.0 = Release|iPhone
+		{49F99F7E-D407-4A9F-8BB2-24212B60C2D2}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{49F99F7E-D407-4A9F-8BB2-24212B60C2D2}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 		{B400B07B-16D2-4200-9BE9-1F64E279A3DF}.Debug|iPhone.ActiveCfg = Debug|iPhone
 		{B400B07B-16D2-4200-9BE9-1F64E279A3DF}.Debug|iPhone.Build.0 = Debug|iPhone
 		{B400B07B-16D2-4200-9BE9-1F64E279A3DF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
